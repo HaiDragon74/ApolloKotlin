@@ -1,0 +1,6 @@
+query GetUser() {
+    getUsers() {
+        id
+        login
+    }
+}
